@@ -4,6 +4,7 @@ Visualizes the prerequisite lectures of the selected course plan.
 ## Installation
 ```bash
 node server.js
+```
 
 ## Stage
 Web scraping only, no visualizations
