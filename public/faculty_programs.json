@@ -1,0 +1,88 @@
+{
+    "Eğitim Fakültesi": [
+        "Bilgisayar ve Öğretim Teknolojileri Eğitimi Lisans Programı",
+        "Rehberlik ve Psikolojik Danışmanlık Lisans Programı",
+        "Fen Bilgisi Eğitimi Lisans Programı",
+        "İlköğretim Matematik Eğitimi Lisans Programı",
+        "Okulöncesi Eğitimi Lisans Programı",
+        "Sınıf Öğretmenliği Lisans Programı",
+        "Sosyal Bilgiler Eğitimi Lisans Programı",
+        "Türkçe Eğitimi Lisans Programı",
+        "İngilizce Öğretmenliği Lisans Programı"
+    ],
+    "Elektrik - Elektronik Fakültesi": [
+        "Bilgisayar Mühendisliği Lisans Programı",
+        "Bilgisayar Mühendisliği Lisans Programı (2023 versiyon)",
+        "Biyomedikal Mühendisliği Lisans Programı",
+        "Elektrik Mühendisliği Lisans Programı",
+        "Elektronik & Haberleşme Mühendisliği Lisans Programı",
+        "Kontrol ve Otomasyon Mühendisliği Lisans Programı",
+        "Kontrol ve Otomasyon Mühendisliği Lisans Programı (İngilizce)"
+    ],
+    "Fen-Edebiyat Fakültesi": [
+        "Fransızca Mütercim Tercümanlık Lisans Programı",
+        "Fizik Lisans Programı",
+        "İstatistik Lisans Programı",
+        "Kimya Lisans Programı",
+        "Kimya Lisans Programı (İngilizce)",
+        "Matematik Lisans Programı",
+        "Moleküler Biyoloji ve Genetik Lisans Programı",
+        "Türk Dili ve Edebiyatı Lisans Programı"
+    ],
+    "Gemi İnşaatı ve Denizcilik Fakültesi": [
+        "Gemi İnşaatı ve Gemi Makineleri Mühendisliği Lisans Programı (%30 İngilizce)",
+        "Gemi Makineleri İşletme Mühendisliği Lisans Programı (%30 İngilizce)"
+    ],
+    "İktisadi ve İdari Bilimler Fakültesi": [
+        "İktisat Lisans Programı",
+        "İktisat Lisans Programı (İngilizce)",
+        "İşletme Lisans Programı (İngilizce)",
+        "İşletme Lisans Programı",
+        "İşletme ABD Bilimsel Hazırlık Programı",
+        "Siyaset Bilimi ve Uluslararası İlişkiler Lisans Programı"
+    ],
+    "İnşaat Fakültesi": [
+        "Çevre Mühendisliği Lisans Programı",
+        "Harita Mühendisliği Lisans Programı",
+        "İnşaat Mühendisliği Lisans Programı",
+        "İnşaat Mühendisliği Lisans Programı (İngilizce)"
+    ],
+    "Kimya-Metalurji Fakültesi": [
+        "Biyomühendislik Lisans Programı",
+        "Biyomühendislik Lisans Programı (İngilizce)",
+        "Gıda Mühendisliği Lisans Programı",
+        "Kimya Mühendisliği Lisans Programı",
+        "Kimya Mühendisliği Lisans Programı (İngilizce)",
+        "Matematik Mühendisliği Lisans Programı",
+        "Matematik Mühendisliği Lisans Programı (İngilizce)",
+        "Metalürji ve Malzeme Mühendisliği Lisans Programı",
+        "Metalürji ve Malzeme Mühendisliği Lisans Programı (İngilizce)"
+    ],
+    "Makine Fakültesi ": [
+        "Endüstri Mühendisliği Lisans Programı ",
+        "Endüstri Mühendisliği Lisans Programı (%100 İngilizce)",
+        "Makine Mühendisliği Lisans Programı",
+        "Mekatronik Mühendisliği Lisans Programı",
+        "Mekatronik Mühendisliği Lisans Programı (%100 İngilizce)"
+    ],
+    "Mimarlık Fakültesi": [
+        "Kültür Varlıklarını Koruma ve Onarım Lisans Programı",
+        "Mimarlık Lisans Programı",
+        "Mimarlık Lisans Programı (İngilizce)",
+        "Şehir ve Bölge Planlama Lisans Programı"
+    ],
+    "Sanat ve Tasarım Fakültesi": [
+        "İletişim ve Tasarımı Lisans Programı",
+        "Müzik Toplulukları Lisans Programı",
+        "Ses Sanatları Tasarımı Lisans Programı",
+        "Dans Lisans Programı",
+        "Bileşik Sanatlar Lisans Programı",
+        "Sanat ve Kültür Yönetimi Lisans Programı",
+        "Fotoğraf ve Video Lisans Programı",
+        "Grafik Tasarımı Lisans Programı",
+        "Endüstri Ürünleri Tasarımı Lisans Programı"
+    ],
+    "Uygulamalı Bilimler Fakültesi": [
+        "Havacılık Elektroniği Lisans Programı"
+    ]
+}

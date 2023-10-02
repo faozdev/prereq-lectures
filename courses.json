@@ -1,0 +1,582 @@
+[
+    {
+        "donem_adi": "1.Dönem",
+        "dersler": [
+            {
+                "kodu": "EHM1011",
+                "adi": "Elektronik ve Haberleşme Mühendisliğine Giriş",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "2",
+                "akts": "3"
+            },
+            {
+                "kodu": "EHM1041",
+                "adi": "İş Sağlığı ve Güvenliği 1",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "2",
+                "akts": "2"
+            },
+            {
+                "kodu": "ENF1190",
+                "adi": "Algoritma Tasarımı ve Programlamaya Giriş",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "4",
+                "akts": "5"
+            },
+            {
+                "kodu": "FIZ1001",
+                "adi": "Fizik 1",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "4",
+                "akts": "5"
+            },
+            {
+                "kodu": "MAT1071",
+                "adi": "Matematik  1",
+                "saati": "3",
+                "uygulama": "2",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "6"
+            },
+            {
+                "kodu": "MAT1320",
+                "adi": "Lineer Cebir",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "2",
+                "akts": "3"
+            },
+            {
+                "kodu": "MDB1031",
+                "adi": "İleri İngilizce 1",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "3"
+            },
+            {
+                "kodu": "SEC0001",
+                "adi": "Sosyal Seçmeli 1-1",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "3"
+            }
+        ]
+    },
+    {
+        "donem_adi": "2.Dönem",
+        "dersler": [
+            {
+                "kodu": "EHM1012",
+                "onkosul": "MAT1320",
+                "adi": "Elektrik Devre Temelleri",
+                "saati": "4",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM1022",
+                "adi": "Mühendislik Matematiği",
+                "saati": "5",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "5",
+                "akts": "6"
+            },
+            {
+                "kodu": "EHM1032",
+                "adi": "Elektronik Malzeme Bilgisi",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "4"
+            },
+            {
+                "kodu": "EHM1042",
+                "adi": "İş Sağlığı ve Güvenliği 2",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "2",
+                "akts": "2"
+            },
+            {
+                "kodu": "ENF1210",
+                "adi": "Programlama Dilleri",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "3",
+                "akts": "4"
+            },
+            {
+                "kodu": "MAT1072",
+                "adi": "Matematik 2",
+                "saati": "3",
+                "uygulama": "2",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "6"
+            },
+            {
+                "kodu": "MDB1032",
+                "adi": "İleri İngilizce 2",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "3"
+            }
+        ]
+    },
+    {
+        "donem_adi": "3.Dönem",
+        "dersler": [
+            {
+                "kodu": "EHM2121",
+                "adi": "Devre ve Sistem Analizi",
+                "saati": "4",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM2131",
+                "adi": "Elektromagnetik Alan Teorisi",
+                "saati": "4",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "6"
+            },
+            {
+                "kodu": "EHM2141",
+                "adi": "Lojik Devreler",
+                "saati": "4",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM2151",
+                "adi": "Yarı İletken Fiziği",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM2161",
+                "adi": "Sayısal Çözüm Yöntemleri",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM2171",
+                "onkosul": "EHM1012",
+                "adi": "Elektrik Devre Temelleri Laboratuvarı",
+                "saati": "0",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "1",
+                "akts": "2"
+            },
+            {
+                "kodu": "SEC0002",
+                "adi": "Sosyal Seçmeli 2-1",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "2",
+                "akts": "2"
+            }
+        ]
+    },
+    {
+        "donem_adi": "4.Dönem",
+        "dersler": [
+            {
+                "kodu": "EHM2002",
+                "adi": "Genel Staj",
+                "saati": "0",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "0",
+                "akts": "3"
+            },
+            {
+                "kodu": "EHM2122",
+                "adi": "Elektronik Devreler 1",
+                "saati": "4",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "6"
+            },
+            {
+                "kodu": "EHM2132",
+                "adi": "Elektromagnetik Dalga Teorisi",
+                "saati": "4",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "6"
+            },
+            {
+                "kodu": "EHM2142",
+                "adi": "Olasılık Teorisi",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM2152",
+                "adi": "İşaret ve Sistemler",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM2162",
+                "onkosul": "EHM2141",
+                "adi": "Lojik Devre Labaratuvarı",
+                "saati": "0",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "1",
+                "akts": "2"
+            },
+            {
+                "kodu": "SEC0003",
+                "adi": "Sosyal Seçmeli 1-2",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "3"
+            }
+        ]
+    },
+    {
+        "donem_adi": "5.Dönem",
+        "dersler": [
+            {
+                "kodu": "ATA1031",
+                "adi": "Atatürk İlkeleri ve İnkılâp Tarihi 1",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "0",
+                "akts": "2"
+            },
+            {
+                "kodu": "EHM3111",
+                "adi": "Elektronik Devreler 2",
+                "saati": "4",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM3121",
+                "adi": "Mikrodalga 1",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "4"
+            },
+            {
+                "kodu": "EHM3131",
+                "adi": "Haberleşme 1",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "4"
+            },
+            {
+                "kodu": "EHM3141",
+                "adi": "Mikroişlemci Sistemleri",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "4"
+            },
+            {
+                "kodu": "EHM3151",
+                "onkosul": "EHM2122",
+                "adi": "Elektronik Devreler 1 Labaratuvarı",
+                "saati": "1",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "2",
+                "akts": "3"
+            },
+            {
+                "kodu": "SEC0004",
+                "adi": "Sosyal Seçmeli 3-1",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "4"
+            },
+            {
+                "kodu": "SEC0005",
+                "adi": "Mesleki Seçmeli 1-1",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "4"
+            }
+        ]
+    },
+    {
+        "donem_adi": "6.Dönem",
+        "dersler": [
+            {
+                "kodu": "ATA1032",
+                "adi": "Atatürk İlkeleri ve İnkılâp Tarihi 2",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "0",
+                "akts": "2"
+            },
+            {
+                "kodu": "EHM3002",
+                "onkosul": "EHM2002",
+                "adi": "Mesleki Staj",
+                "saati": "0",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "0",
+                "akts": "3"
+            },
+            {
+                "kodu": "EHM3112",
+                "adi": "Antenler ve Propagasyon",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM3122",
+                "adi": "Haberleşme 2",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "4"
+            },
+            {
+                "kodu": "EHM3132",
+                "adi": "Otomatik Kontrol",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "EHM3142",
+                "onkosul": "EHM3111",
+                "adi": "Elektronik Devreler 2 Laboratuvarı ve Proje",
+                "saati": "1",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "2",
+                "akts": "3"
+            },
+            {
+                "kodu": "EHM3152",
+                "onkosul": "EHM3131",
+                "adi": "Haberleşme Laboratuvarı",
+                "saati": "0",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "1",
+                "akts": "2"
+            },
+            {
+                "kodu": "EHM3162",
+                "onkosul": "EHM3121",
+                "adi": "Mikrodalga ve Anten Lab.",
+                "saati": "0",
+                "uygulama": "0",
+                "laboratuvar": "2",
+                "kredi": "1",
+                "akts": "2"
+            },
+            {
+                "kodu": "SEC0006",
+                "adi": "Sosyal Seçmeli 3-2",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "4"
+            }
+        ]
+    },
+    {
+        "donem_adi": "7.Dönem",
+        "dersler": [
+            {
+                "kodu": "EHM4200",
+                "adi": "Tasarım Projesi",
+                "saati": "2",
+                "uygulama": "4",
+                "laboratuvar": "0",
+                "kredi": "4",
+                "akts": "5"
+            },
+            {
+                "kodu": "TDB1031",
+                "adi": "Türkçe 1",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "0",
+                "akts": "2"
+            },
+            {
+                "kodu": "SEC0007",
+                "adi": "Mesleki Seçmeli 2-1",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "SEC0008",
+                "adi": "Mesleki Seçmeli 2-2",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "SEC0009",
+                "adi": "Mesleki Seçmeli 2-3",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "SEC0010",
+                "adi": "Mesleki Seçmeli 2-4",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "SEC0011",
+                "adi": "Mesleki Seçmeli 3-1",
+                "saati": "0",
+                "uygulama": "2",
+                "laboratuvar": "0",
+                "kredi": "1",
+                "akts": "3"
+            }
+        ]
+    },
+    {
+        "donem_adi": "8.Dönem",
+        "dersler": [
+            {
+                "kodu": "EHM4012",
+                "adi": "İş Hayatına Hazırlık",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "2",
+                "akts": "3"
+            },
+            {
+                "kodu": "EHM9000",
+                "onkosul": "EHM4200",
+                "adi": "Bitirme Çalışması",
+                "saati": "2",
+                "uygulama": "6",
+                "laboratuvar": "0",
+                "kredi": "5",
+                "akts": "10"
+            },
+            {
+                "kodu": "TDB1032",
+                "adi": "Türkçe 2",
+                "saati": "2",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "0",
+                "akts": "2"
+            },
+            {
+                "kodu": "SEC0012",
+                "adi": "Mesleki Seçmeli 2-5",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "SEC0013",
+                "adi": "Mesleki Seçmeli 2-6",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            },
+            {
+                "kodu": "SEC0014",
+                "adi": "Mesleki Seçmeli 2-7",
+                "saati": "3",
+                "uygulama": "0",
+                "laboratuvar": "0",
+                "kredi": "3",
+                "akts": "5"
+            }
+        ]
+    }
+]
